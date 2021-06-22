@@ -1,0 +1,123 @@
+ABI    Application Binary Interface    应用程序二进制接口
+AMPS    Advanced Mobile Phone System     先进移动电话系统
+APC    Automatic Power Collapse    
+AU    Area Unit
+AUTOSAR    AUTOmotive Open System Architecture    汽车开放系统架构
+BIA Business Impact Assessment, 业务影响评估
+BAM  Bus Access Module
+BAS系统 (Broadband Access Server/ Broadband Remote Access Server) 中文译名: 宽带接入服务器
+BCCH  Broadcast Control Channel, 广播控制信道
+BMS    Battery Management System    电池管理系统
+BOSS（Business & Operation Support System，BOSS）指的是业务运营支撑系统
+CA  Carrier Aggregation, 载波聚合
+    CA是指载波聚合，同时使用两个载波承载信息，是从拓宽传输带宽的角度来提高传输速率。CA大致分为三种，带内CA，包括相邻和非相邻，带间CA。测试时和单载波测试天线连接是一样的。MIMO是一种多天线技术，包括分集和空分复用。这种技术是利用电磁波在空间中传输的多径效应来提升传输速率的。
+CCB Change Control Board，在CMMI中的含义是变更控制委员会
+CCC  China Compulsory Certification, 中国强制认证
+CCCH  Common Control Channel 公用控制信道 
+CDT Configuration Data Table
+CDG  CDMA Development Group，CDMA开发组
+COTS Commercial Off-The-Shelf 翻译为“商用现成品或技术”或者“商用货架产品”，指可以采购到的具有开放式标准定义的接口的软件或硬件产品，可以节省成本和时间。
+CPE  Customer Premise Equipment, 客户终端设备
+CPU    Central Processing Unit    中央处理器
+CRC  Cyclic Redundancy Check，循环冗余校验码
+CSD Circuit Switch Data, 电路交换数据业务
+    http://baike.baidu.com/link?url=7BInZ2jQNBx3nrR9TnAyelT6roaAO6GbKTCkHWFKwDnJlRkdUe2WmeF_xn5GB1wposbYVX6wRBckhgC-W6-IHa
+DCCH Dedicated Control CHannel 专用控制信道 
+EARFCN   E-UTRA Absolute Radio Frequency Channel Number, 载波频点
+EBI  External Bus Interface，外部总线接口
+eCall 在欧盟境内出售的所有型号的家用车和轻型乘用车都必须安装一种被称作eCall的自动紧急呼叫系统
+ECM  EPS Connection Management, ECM 连接指的是 UE 与 EPC 之间的连接
+ECN  Engineering Change Notice，工程变更通知书
+Enel  意大利国家电力公司
+ETSI Eruopean Telecommunications Standards Institute, 欧洲电信标准化协会
+eUICC  Embeded Universal Integrated Circuit Card, 嵌入式通用集成电路卡
+FIOP  Fax Over Internet Protocol
+FOTA  Firmware Over-The-Air
+GB(GiB)  gigabytes [ˈdʒɪɡəˌbaɪt, ˈɡɪɡ-]
+GERAN  GSM EDGE Radio Access Network，
+GNSS Global Navigation Satellite System 全球导航卫星系统
+GSBI General Serial Bus Interface
+GSMA GSM协会
+HD-FDD  Half Duplex
+HIS Herstellerinitiative software, 德国OEM代表组成的组织，用于定义在汽车行业的软件相关的标准，该组织已经关闭
+ICT  Information and Communication Technology, 即信息和通信技术
+IMS IP Multimedia Subsystem, IP多媒体子系统
+IMT International Mobile Telecom System, 国际移动通信系统
+intacs 国际评估师认证机构
+IRAT  Inter Radio Access Technology，
+KB(KiB) kilobytes [ˈkɪləˌbaɪt]
+LBS Location Based Service, 基于位置的服务
+LDPC Low Density Parity Checkcode, 低密度奇偶校验码
+LGA  Land Grid Array, 栅格阵列封装
+LCC  LCC封装，Leadless Chip Carriers，邮票孔封装
+    为了针对无阵脚芯片封装设计的，这种封装采用贴片式封装，它的引脚在芯片边缘地步向内弯曲，紧贴芯片，减小了安装体积。但是这种芯片的缺点是使用时调试和焊接都非常麻烦，一般设计时都不直接焊接到印制线路板上，而是使用PGA封装的结构的引脚转换座焊接到印制线路板上，再将LCC封装的芯片安装到引脚转换座的LCC结构形式的安装槽中，这样的芯片就可随时拆卸，便于调试
+MB(MiB)  megabytes [ˈmegəbaɪt]
+MBA Modem Boot Authenticator
+MBIM Mobile Broadband Interface Model
+MBMS  Multimedia Broadcast Multicast Service，多媒体广播多播业务
+MDM  Mobile Data Modem
+MIMO  Multiple-Input Multiple-Output，多输入输出天线系统
+    该技术指在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端与接收端的多个天线传送和接收，从而改善通信质量。它能充分利用空间资源，通过多个天线实现多发多收，在不增加频谱资源和天线发射功率的情况下，可以成倍的提高系统信道容量，显示出明显的优势、被视为下一代移动通信的核心技术。
+MSA    测量系统分析，是汽车行业中五大工具之一，主要针对测量设备或工具的重复性、再现性、稳定性、偏倚、线性所进行的测量系统分析
+MSM  Mobile Station Modem
+MTC  Machine Type Communications， 机器类型通信
+MTD  Memory technology device
+MVO(MVNO)  Mobile Virutal Network Operator
+NAT  Network Address Translation，网络地址转换
+NB-IoT  Narrow Band Internet of Things，基于蜂窝的窄带物联网
+    基于蜂窝的窄带物联网（Narrow Band Internet of Things, NB-IoT）成为万物互联网络的一个重要分支。NB-IoT构建于蜂窝网络，只消耗大约180KHz的频段，可直接部署于GSM网络、UMTS网络或LTE网络，以降低部署成本、实现平滑升级。
+    NB-IoT是IoT领域一个新兴的技术，支持低功耗设备在广域网的蜂窝数据连接，也被叫作低功耗广域网(LPWA)。NB-IoT支持待机时间短、对网络连接要求较高设备的高效连接。据说NB-IoT设备电池寿命可以提高至至少10年，同时还能提供非常全面的室内蜂窝数据连接覆盖。
+NAME  National Electrical Manufacturers Association, 美国电气制造商协会
+NMEA  National Marine Electronics Association, 美国国家海洋电子协会
+NOMA Non-Orthogonal Multiple Access, 非正交多址接入技术
+OBD  On-Board Diagnostic, 车载诊断系统
+OFDMA Orthogonal Frequency Division Multiple Access， 正交频分多址 
+PRM/PAM 外部过程参考模型(PRM)和过程评估模型(PAM)
+PCM Pulse Code Modulation, 脉冲编码调制
+PID    Process IDentification    进程ID号
+PD  Process Domain
+PEB  physical erase block
+PICS  Protocol Implementation Conformance Statements, 协议实现一致性说明
+PIL  peripheral image loader (PIL)
+PL  Product Line
+POC  
+PRL  Preferred Roaming List，优先漫游列表
+PTP  Precision Time Protocol
+QAM  Quadrature Amplitude Modulation, 正交振幅调制
+QSC  Qualcomn Single Chip
+RAN  Radio Access Network, 无线接入网
+RoHS  Restriction of Hazardous Substances, 关于限制在电子电器设备中使用某些有害成分的指令
+SA  Service and System Aspects，服务和系统方面，网络架构工作组
+SC-FDMA Single-carrier Frequency-Division Multiple Access，单载波频分多址
+SIP Session Initiation Protoco  会话初始协议
+SISO Single Input Single Output, 单入单出
+SOHO Small Office and Home Office, 小型办公室或家庭式办公室
+S.p.A. Societa per Azioni （意大利语）股份公司，合资公司（用于公司名称）
+SPICE Software Process Improvement and Capability dEtermination, 软件过程改进和能力测定
+SSL  Secure Sockets Layer 安全套接层，加密套接字协议层
+STMicroelectronics  意法半导体公司
+        1987年，两家历史悠久的半导体公司意大利SGS Microelettronica和法国汤姆逊半导体公司合并后，成立了今天的意法半导体公司
+        公司总部设在瑞士日内瓦
+SU Subsystem Unit
+TACS Total Access Communications System, 全接入通信系统
+Telematics  远距离通信的电信（Telecommunications）与信息科学（Informatics）的合成词，通常所说的Telematics就是指应用无线通信技术的车载电脑系统
+TLS  Transport Layer Security Protocol，安全传输层协议
+TR Technical Report 研究报告，3GPP术语
+TR069  DSL论坛（www.dslforum.org）所开发的技术规范之一, 其全称为“CPE广域网管理协议”. 
+       它提供了对下一代网络中家庭网络设备进行管理配置的通用框架和协议, 用于从网络侧对家庭网络中的网关、路由器、机顶盒等设备进行远程集中管理。
+TS Technical Specification 技术规范，3GPP术语
+TTS  Text To Speech，即“从文本到语音”，是人机对话的一部分，让机器能够说话
+UBI  Unsorted Block Image
+UBIFS  Unsorted Block Image File System
+USIM Universal Subscriber Identity Module， 通用用户识别模块
+    Class A       5V(4.5-5.5)V
+    Class B       3V(2.7-3.3)V
+    Class C       1.8V(1.62-1.98)V
+VDA Verband der Automobilindustrie, 德国汽车工业联合会
+VOIP Voice Over Internet Protocol
+VSTMR Virtual System Timer
+VU Versioned Unit
+WCM  Wireless Communication Module，无线通信模块
+WID Work Item Description，工作项的描述
+WRC World Radiocommunication Conference, 世界无线电通信大会
+ZigBee  基于IEEE802.15.4标准的低功耗局域网协议。根据国际标准规定，ZigBee技术是一种短距离、低功耗的无线通信技术
