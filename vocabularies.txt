@@ -28,6 +28,7 @@ EBI    External Bus Interface    外部总线接口
 eCall    在欧盟境内出售的所有型号的家用车和轻型乘用车都必须安装一种被称作eCall的自动紧急呼叫系统
 ECM    EPS Connection Management    ECM 连接指的是 UE 与 EPC 之间的连接
 ECN    Engineering Change Notice    工程变更通知书
+ELF    Executable and Linkable Forma    可执行与可链接格式
 Enel    意大利国家电力公司
 ETSI    Eruopean Telecommunications Standards Institute    欧洲电信标准化协会
 eUICC    Embeded Universal Integrated Circuit Card    嵌入式通用集成电路卡
@@ -58,6 +59,7 @@ MBMS    Multimedia Broadcast Multicast Service    多媒体广播多播业务
 MDM    Mobile Data Modem
 MIMO    Multiple-Input Multiple-Output，多输入输出天线系统
     该技术指在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端与接收端的多个天线传送和接收，从而改善通信质量。它能充分利用空间资源，通过多个天线实现多发多收，在不增加频谱资源和天线发射功率的情况下，可以成倍的提高系统信道容量，显示出明显的优势、被视为下一代移动通信的核心技术。
+MMU    Memory Management Unit    内存管理单元(分页内存管理单元)
 MSA    测量系统分析，是汽车行业中五大工具之一，主要针对测量设备或工具的重复性、再现性、稳定性、偏倚、线性所进行的测量系统分析
 MSM    Mobile Station Modem
 MTC    Machine Type Communications， 机器类型通信
@@ -91,6 +93,7 @@ SA    Service and System Aspects    服务和系统方面，网络架构工作�
 SC-FDMA    Single-carrier Frequency-Division Multiple Access    单载波频分多址
 SIP    Session Initiation Protoco    会话初始协议
 SISO    Single Input Single Output    单入单出
+SMP    Symmetrical Multi-Processing    对称多处理
 SOHO    Small Office and Home Office    小型办公室或家庭式办公室
 S.p.A.    Societa per Azioni    （意大利语）股份公司，合资公司（用于公司名称）
 SPICE    Software Process Improvement and Capability dEtermination    软件过程改进和能力测定
@@ -101,6 +104,7 @@ STMicroelectronics  意法半导体公司
 SU    Subsystem Unit
 TACS    Total Access Communications System    全接入通信系统
 Telematics    远距离通信的电信（Telecommunications）与信息科学（Informatics）的合成词，通常所说的Telematics就是指应用无线通信技术的车载电脑系统
+TLB    Translation Lookaside Buffer    页表缓存/地址转换后备缓冲器/转址旁路缓存
 TLS    Transport Layer Security Protocol    安全传输层协议
 TR    Technical Report    研究报告，3GPP术语
 TR069    DSL论坛（www.dslforum.org）所开发的技术规范之一, 其全称为“CPE广域网管理协议”。
