@@ -6,6 +6,7 @@ AUTOSAR    AUTOmotive Open System Architecture    汽车开放系统架构
 BIA    Business Impact Assessment    业务影响评估
 BAM    Bus Access Module
 BAS    Broadband Access Server/Broadband Remote Access Server)    宽带接入服务器
+BBS    Bulletin Board System    电子公告板/网络论坛
 BCCH    Broadcast Control Channel    广播控制信道
 BMS    Battery Management System    电池管理系统
 BOSS    Business & Operation Support System，BOSS    指的是业务运营支撑系统
@@ -47,6 +48,7 @@ IMT    International Mobile Telecom System    国际移动通信系统
 intacs    国际评估师认证机构
 IRAT    Inter Radio Access Technology，
 KB(KiB)    kilobytes [ˈkɪləˌbaɪt]
+LAN    Local Area Network    局域网
 LBS    Location Based Service    基于位置的服务
 LDPC    Low Density Parity Checkcode    低密度奇偶校验码
 LGA    Land Grid Array    栅格阵列封装
@@ -74,6 +76,7 @@ NMEA    National Marine Electronics Association    美国国家海洋电子协�
 NOMA    Non-Orthogonal Multiple Access    非正交多址接入技术
 OBD    On-Board Diagnostic    车载诊断系统
 OFDMA    Orthogonal Frequency Division Multiple Access    正交频分多址
+OSI    Open System Interconnection    开放系统互联
 PRM/PAM    外部过程参考模型(PRM)和过程评估模型(PAM)
 PCM    Pulse Code Modulation    脉冲编码调制
 PID    Process IDentification    进程ID号
@@ -94,6 +97,7 @@ SC-FDMA    Single-carrier Frequency-Division Multiple Access    单载波频分�
 SIP    Session Initiation Protoco    会话初始协议
 SISO    Single Input Single Output    单入单出
 SMP    Symmetrical Multi-Processing    对称多处理
+SNS    Social Networking Services    社交网络
 SOHO    Small Office and Home Office    小型办公室或家庭式办公室
 S.p.A.    Societa per Azioni    （意大利语）股份公司，合资公司（用于公司名称）
 SPICE    Software Process Improvement and Capability dEtermination    软件过程改进和能力测定
@@ -121,6 +125,7 @@ VDA    Verband der Automobilindustrie    德国汽车工业联合会
 VOIP    Voice Over Internet Protocol
 VSTMR    Virtual System Timer
 VU    Versioned Unit
+WAN    Wide Area Network    广域网
 WCM    Wireless Communication Module    无线通信模块
 WID    Work Item Description    工作项的描述
 WRC    World Radiocommunication Conference    世界无线电通信大会
