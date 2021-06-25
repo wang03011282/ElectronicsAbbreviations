@@ -1,6 +1,8 @@
 ABI    Application Binary Interface    应用程序二进制接口
 AMPS    Advanced Mobile Phone System     先进移动电话系统
-APC    Automatic Power Collapse    
+APC    Automatic Power Collapse
+AT    Attention的缩写，Modem命令协议
+ATM    Asynchronous Transfer Mode    异步传输模式
 AU    Area Unit
 AUTOSAR    AUTOmotive Open System Architecture    汽车开放系统架构
 BIA    Business Impact Assessment    业务影响评估
@@ -54,14 +56,17 @@ LDPC    Low Density Parity Checkcode    低密度奇偶校验码
 LGA    Land Grid Array    栅格阵列封装
 LCC    Leadless Chip Carriers    邮票孔封装，LCC封装，
     为了针对无阵脚芯片封装设计的，这种封装采用贴片式封装，它的引脚在芯片边缘地步向内弯曲，紧贴芯片，减小了安装体积。但是这种芯片的缺点是使用时调试和焊接都非常麻烦，一般设计时都不直接焊接到印制线路板上，而是使用PGA封装的结构的引脚转换座焊接到印制线路板上，再将LCC封装的芯片安装到引脚转换座的LCC结构形式的安装槽中，这样的芯片就可随时拆卸，便于调试
+MAC    Media Access Control    媒体访问控制/介质访问控制
 MB(MiB)    megabytes [ˈmegəbaɪt]
 MBA    Modem Boot Authenticator
 MBIM    Mobile Broadband Interface Model
 MBMS    Multimedia Broadcast Multicast Service    多媒体广播多播业务
+MCC    Mobile Country Code    移动国家码
 MDM    Mobile Data Modem
 MIMO    Multiple-Input Multiple-Output，多输入输出天线系统
     该技术指在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端与接收端的多个天线传送和接收，从而改善通信质量。它能充分利用空间资源，通过多个天线实现多发多收，在不增加频谱资源和天线发射功率的情况下，可以成倍的提高系统信道容量，显示出明显的优势、被视为下一代移动通信的核心技术。
 MMU    Memory Management Unit    内存管理单元(分页内存管理单元)
+MNC    Mobile Network Code    移动网络码
 MSA    测量系统分析，是汽车行业中五大工具之一，主要针对测量设备或工具的重复性、再现性、稳定性、偏倚、线性所进行的测量系统分析
 MSM    Mobile Station Modem
 MTC    Machine Type Communications， 机器类型通信
@@ -72,21 +77,24 @@ NB-IoT    Narrow Band Internet of Things    基于蜂窝的窄带物联网
     基于蜂窝的窄带物联网（Narrow Band Internet of Things, NB-IoT）成为万物互联网络的一个重要分支。NB-IoT构建于蜂窝网络，只消耗大约180KHz的频段，可直接部署于GSM网络、UMTS网络或LTE网络，以降低部署成本、实现平滑升级。
     NB-IoT是IoT领域一个新兴的技术，支持低功耗设备在广域网的蜂窝数据连接，也被叫作低功耗广域网(LPWA)。NB-IoT支持待机时间短、对网络连接要求较高设备的高效连接。据说NB-IoT设备电池寿命可以提高至至少10年，同时还能提供非常全面的室内蜂窝数据连接覆盖。
 NEMA    National Electrical Manufacturers Association    美国电气制造商协会
+NIC    Network Information Center    网络信息中心
+NIC    Network Interface Card    网卡
 NMEA    National Marine Electronics Association    美国国家海洋电子协会
 NOMA    Non-Orthogonal Multiple Access    非正交多址接入技术
 OBD    On-Board Diagnostic    车载诊断系统
 OFDMA    Orthogonal Frequency Division Multiple Access    正交频分多址
 OSI    Open System Interconnection    开放系统互联
-PRM/PAM    外部过程参考模型(PRM)和过程评估模型(PAM)
+PC    Personal Computer    个人电脑
 PCM    Pulse Code Modulation    脉冲编码调制
-PID    Process IDentification    进程ID号
 PD    Process Domain
+PID    Process IDentification    进程ID号
 PEB    physical erase block
 PICS    Protocol Implementation Conformance Statements    协议实现一致性说明
 PIL    peripheral image loader (PIL)
 PL    Product Line    产品线
 POC    PTT(Push To Talk) Over Cellular    基于蜂窝网的，类似于对讲机的无线一键通业务
 PRL    Preferred Roaming List    优先漫游列表
+PRM/PAM    外部过程参考模型(PRM)和过程评估模型(PAM)
 PTP    Precision Time Protocol
 QAM    Quadrature Amplitude Modulation    正交振幅调制
 QSC    Qualcomn Single Chip
@@ -94,6 +102,7 @@ RAN    Radio Access Network    无线接入网
 RoHS    Restriction of Hazardous Substances    关于限制在电子电器设备中使用某些有害成分的指令
 SA    Service and System Aspects    服务和系统方面，网络架构工作组
 SC-FDMA    Single-carrier Frequency-Division Multiple Access    单载波频分多址
+SIM    Subscriber Identity Module   用户身份识别卡
 SIP    Session Initiation Protoco    会话初始协议
 SISO    Single Input Single Output    单入单出
 SMP    Symmetrical Multi-Processing    对称多处理
@@ -107,6 +116,7 @@ STMicroelectronics  意法半导体公司
         公司总部设在瑞士日内瓦
 SU    Subsystem Unit
 TACS    Total Access Communications System    全接入通信系统
+TCP/IP    Transmission Control Protocol/Internet Protocol    传输控制协议/网际协议
 Telematics    远距离通信的电信（Telecommunications）与信息科学（Informatics）的合成词，通常所说的Telematics就是指应用无线通信技术的车载电脑系统
 TLB    Translation Lookaside Buffer    页表缓存/地址转换后备缓冲器/转址旁路缓存
 TLS    Transport Layer Security Protocol    安全传输层协议
@@ -117,6 +127,8 @@ TS    Technical Specification    技术规范，3GPP术语
 TTS    Text To Speech    即“从文本到语音”，是人机对话的一部分，让机器能够说话
 UBI    Unsorted Block Image
 UBIFS    Unsorted Block Image File System
+URL    Uniform Resource Locator    统一资源定位器
+USB    Universal Serial Bus    通用串行总线
 USIM    Universal Subscriber Identity Module    通用用户识别模块
     Class A       5V(4.5-5.5)V
     Class B       3V(2.7-3.3)V
@@ -129,4 +141,5 @@ WAN    Wide Area Network    广域网
 WCM    Wireless Communication Module    无线通信模块
 WID    Work Item Description    工作项的描述
 WRC    World Radiocommunication Conference    世界无线电通信大会
+WWW    World Wide Web    万维网
 ZigBee    基于IEEE802.15.4标准的低功耗局域网协议。根据国际标准规定，ZigBee技术是一种短距离、低功耗的无线通信技术
