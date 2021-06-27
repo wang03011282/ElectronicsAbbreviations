@@ -1,16 +1,31 @@
+3GPP    3rd Generation Partnership Project    第三代合作伙伴计划
+3GPP2    3rd Generation Partnership Project 2    第三代合作伙伴计划2
+A-GPS    Assisted GPS    辅助GPS
 ABI    Application Binary Interface    应用程序二进制接口
+ACK    Acknowledge    确认（响应）
+ADC    Analog Digital Converter    模数转换
+ADSP    Audio Digital Signal Processor    音频数字信号处理器
+ADSP    Advanced Digital Signal Processor    高级数字信号处理器
+AES    Advanced Encryption Standard    高级加密标准
+AI    Artificial Intelligence    人工智能
 AMPS    Advanced Mobile Phone System     先进移动电话系统
 APC    Automatic Power Collapse
+API    Application Programming Interface    应用程序接口
+APN    Access Point Name    接入点名称
+ARM    Advanced RISC Machines    高级精简指令级机器
+ARP    Address Resolution Protocol    地址解析协议
 AT    Attention的缩写，Modem命令协议
 ATM    Asynchronous Transfer Mode    异步传输模式
 AU    Area Unit
 AUTOSAR    AUTOmotive Open System Architecture    汽车开放系统架构
+BB    BaseBand    基带
 BIA    Business Impact Assessment    业务影响评估
 BAM    Bus Access Module
 BAS    Broadband Access Server/Broadband Remote Access Server)    宽带接入服务器
 BBS    Bulletin Board System    电子公告板/网络论坛
 BCCH    Broadcast Control Channel    广播控制信道
 BMS    Battery Management System    电池管理系统
+BOM    Bill of Material    物料清单
 BOSS    Business & Operation Support System，BOSS    指的是业务运营支撑系统
 CA    Carrier Aggregation    载波聚合
     CA是指载波聚合，同时使用两个载波承载信息，是从拓宽传输带宽的角度来提高传输速率。CA大致分为三种，带内CA，包括相邻和非相邻，带间CA。测试时和单载波测试天线连接是一样的。MIMO是一种多天线技术，包括分集和空分复用。这种技术是利用电磁波在空间中传输的多径效应来提升传输速率的。
@@ -25,7 +40,9 @@ CPU    Central Processing Unit    中央处理器
 CRC    Cyclic Redundancy Check    循环冗余校验码
 CSD    Circuit Switch Data    电路交换数据业务
     http://baike.baidu.com/link?url=7BInZ2jQNBx3nrR9TnAyelT6roaAO6GbKTCkHWFKwDnJlRkdUe2WmeF_xn5GB1wposbYVX6wRBckhgC-W6-IHa
+DAC    Digital Analog Convert    数模转换
 DCCH    Dedicated Control CHannel    专用控制信道
+DSP    Digital Singal Processor    数字信号处理器
 EARFCN    E-UTRA Absolute Radio Frequency Channel Number    载波频点
 EBI    External Bus Interface    外部总线接口
 eCall    在欧盟境内出售的所有型号的家用车和轻型乘用车都必须安装一种被称作eCall的自动紧急呼叫系统
@@ -40,6 +57,7 @@ FOTA    Firmware Over-The-Air
 GB(GiB)  gigabytes [ˈdʒɪɡəˌbaɪt, ˈɡɪɡ-]
 GERAN    GSM EDGE Radio Access Network
 GNSS    Global Navigation Satellite System    全球导航卫星系统
+GPS    Global Positioning System    全球定位系统
 GSBI    General Serial Bus Interface
 GSMA    GSM协会
 HD-FDD    Half Duplex
