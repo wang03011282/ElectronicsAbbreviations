@@ -24,9 +24,11 @@ BAM    Bus Access Module
 BAS    Broadband Access Server/Broadband Remote Access Server)    宽带接入服务器
 BBS    Bulletin Board System    电子公告板/网络论坛
 BCCH    Broadcast Control Channel    广播控制信道
+BLER    Block Error Rate    块错误率
 BMS    Battery Management System    电池管理系统
 BOM    Bill of Material    物料清单
 BOSS    Business & Operation Support System，BOSS    指的是业务运营支撑系统
+BT    BlueTooth    蓝牙
 CA    Carrier Aggregation    载波聚合
     CA是指载波聚合，同时使用两个载波承载信息，是从拓宽传输带宽的角度来提高传输速率。CA大致分为三种，带内CA，包括相邻和非相邻，带间CA。测试时和单载波测试天线连接是一样的。MIMO是一种多天线技术，包括分集和空分复用。这种技术是利用电磁波在空间中传输的多径效应来提升传输速率的。
 CCB    Change Control Board    在CMMI中的含义是变更控制委员会
@@ -34,10 +36,13 @@ CCC    China Compulsory Certification    中国强制认证
 CCCH    Common Control Channel    公用控制信道
 CDT    Configuration Data Table
 CDG    CDMA Development Group    CDMA开发组
+CDMA    Code Division Multiple Access    码分多址
+CM    Configuration Management    配置管理
 COTS    Commercial Off-The-Shelf    翻译为“商用现成品或技术”或者“商用货架产品”，指可以采购到的具有开放式标准定义的接口的软件或硬件产品，可以节省成本和时间。
 CPE    Customer Premise Equipment    客户终端设备
 CPU    Central Processing Unit    中央处理器
 CRC    Cyclic Redundancy Check    循环冗余校验码
+CS    Circuit Switch    电路交换
 CSD    Circuit Switch Data    电路交换数据业务
     http://baike.baidu.com/link?url=7BInZ2jQNBx3nrR9TnAyelT6roaAO6GbKTCkHWFKwDnJlRkdUe2WmeF_xn5GB1wposbYVX6wRBckhgC-W6-IHa
 DAC    Digital Analog Convert    数模转换
@@ -113,10 +118,13 @@ PL    Product Line    产品线
 POC    PTT(Push To Talk) Over Cellular    基于蜂窝网的，类似于对讲机的无线一键通业务
 PRL    Preferred Roaming List    优先漫游列表
 PRM/PAM    外部过程参考模型(PRM)和过程评估模型(PAM)
+PS    Packet Switch    分组交换
 PTP    Precision Time Protocol
 QAM    Quadrature Amplitude Modulation    正交振幅调制
 QSC    Qualcomn Single Chip
+RAM    Random Access Memory    随机存储器
 RAN    Radio Access Network    无线接入网
+ROM    Read-Only Memory    只读存储器
 RoHS    Restriction of Hazardous Substances    关于限制在电子电器设备中使用某些有害成分的指令
 SA    Service and System Aspects    服务和系统方面，网络架构工作组
 SC-FDMA    Single-carrier Frequency-Division Multiple Access    单载波频分多址
