@@ -47,14 +47,23 @@ CSD    Circuit Switch Data    电路交换数据业务
     http://baike.baidu.com/link?url=7BInZ2jQNBx3nrR9TnAyelT6roaAO6GbKTCkHWFKwDnJlRkdUe2WmeF_xn5GB1wposbYVX6wRBckhgC-W6-IHa
 DAC    Digital Analog Convert    数模转换
 DCCH    Dedicated Control CHannel    专用控制信道
+DDR    Double Data Rate    双倍速率
+DHCP    Dynamic Host Configuration Protocol    动态主机配置协议
+DLL    Dynamic Link Library    动态链接库
+DMA    Direct Memory Access    直接存储器访问
+DNS    Domain Name Server    域名服务器
+DNS    Domain Name System    域名系统
 DSP    Digital Singal Processor    数字信号处理器
 EARFCN    E-UTRA Absolute Radio Frequency Channel Number    载波频点
 EBI    External Bus Interface    外部总线接口
 eCall    在欧盟境内出售的所有型号的家用车和轻型乘用车都必须安装一种被称作eCall的自动紧急呼叫系统
 ECM    EPS Connection Management    ECM 连接指的是 UE 与 EPC 之间的连接
 ECN    Engineering Change Notice    工程变更通知书
+EDA    Electronic Design Automation    电子设计自动化
 ELF    Executable and Linkable Forma    可执行与可链接格式
 Enel    意大利国家电力公司
+EOL    End of Line    行结尾
+EOL    End of Life    项目终止
 ETSI    Eruopean Telecommunications Standards Institute    欧洲电信标准化协会
 eUICC    Embeded Universal Integrated Circuit Card    嵌入式通用集成电路卡
 FIOP    Fax Over Internet Protocol
