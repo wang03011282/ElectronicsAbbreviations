@@ -14,6 +14,7 @@ API    Application Programming Interface    应用程序接口
 APN    Access Point Name    接入点名称
 ARM    Advanced RISC Machines    高级精简指令级机器
 ARP    Address Resolution Protocol    地址解析协议
+ASCII    American Standard Code for Information Interchange    美国信息交换标准代码
 AT    Attention的缩写，Modem命令协议
 ATM    Asynchronous Transfer Mode    异步传输模式
 AU    Area Unit
@@ -38,6 +39,7 @@ CDT    Configuration Data Table
 CDG    CDMA Development Group    CDMA开发组
 CDMA    Code Division Multiple Access    码分多址
 CM    Configuration Management    配置管理
+CGI    Common Gateway Interface    公共网关接口
 COTS    Commercial Off-The-Shelf    翻译为“商用现成品或技术”或者“商用货架产品”，指可以采购到的具有开放式标准定义的接口的软件或硬件产品，可以节省成本和时间。
 CPE    Customer Premise Equipment    客户终端设备
 CPU    Central Processing Unit    中央处理器
@@ -77,6 +79,7 @@ GSMA    GSM协会
 HD-FDD    Half Duplex
 HIS    Herstellerinitiative software    德国OEM代表组成的组织，用于定义在汽车行业的软件相关的标准，该组织已经关闭
 ICT    Information and Communication Technology    即信息和通信技术
+IDN    Internationalized Domain Names    国际化域名
 IMS    IP Multimedia Subsystem    IP多媒体子系统
 IMT    International Mobile Telecom System    国际移动通信系统
 intacs    国际评估师认证机构
