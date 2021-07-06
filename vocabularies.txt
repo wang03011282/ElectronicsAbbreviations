@@ -8,10 +8,12 @@ ADSP    Audio Digital Signal Processor    音频数字信号处理器
 ADSP    Advanced Digital Signal Processor    高级数字信号处理器
 AES    Advanced Encryption Standard    高级加密标准
 AI    Artificial Intelligence    人工智能
+AIO    Asynchronized IO    异步IO
 AMPS    Advanced Mobile Phone System     先进移动电话系统
 APC    Automatic Power Collapse
 API    Application Programming Interface    应用程序接口
 APN    Access Point Name    接入点名称
+APT    Advanced Packaging Tool    Linux下的一款安装包管理工具
 ARM    Advanced RISC Machines    高级精简指令级机器
 ARP    Address Resolution Protocol    地址解析协议
 ASCII    American Standard Code for Information Interchange    美国信息交换标准代码
@@ -29,6 +31,7 @@ BLER    Block Error Rate    块错误率
 BMS    Battery Management System    电池管理系统
 BOM    Bill of Material    物料清单
 BOSS    Business & Operation Support System，BOSS    指的是业务运营支撑系统
+BSD    Berkeley Software Distribution    伯克利软件套件
 BT    BlueTooth    蓝牙
 CA    Carrier Aggregation    载波聚合
     CA是指载波聚合，同时使用两个载波承载信息，是从拓宽传输带宽的角度来提高传输速率。CA大致分为三种，带内CA，包括相邻和非相邻，带间CA。测试时和单载波测试天线连接是一样的。MIMO是一种多天线技术，包括分集和空分复用。这种技术是利用电磁波在空间中传输的多径效应来提升传输速率的。
@@ -38,8 +41,9 @@ CCCH    Common Control Channel    公用控制信道
 CDT    Configuration Data Table
 CDG    CDMA Development Group    CDMA开发组
 CDMA    Code Division Multiple Access    码分多址
-CM    Configuration Management    配置管理
 CGI    Common Gateway Interface    公共网关接口
+CIDR    Classless Inter-Domain Routing    无类别域间路由
+CM    Configuration Management    配置管理
 COTS    Commercial Off-The-Shelf    翻译为“商用现成品或技术”或者“商用货架产品”，指可以采购到的具有开放式标准定义的接口的软件或硬件产品，可以节省成本和时间。
 CPE    Customer Premise Equipment    客户终端设备
 CPU    Central Processing Unit    中央处理器
@@ -74,16 +78,17 @@ GB(GiB)  gigabytes [ˈdʒɪɡəˌbaɪt, ˈɡɪɡ-]
 GERAN    GSM EDGE Radio Access Network
 GNSS    Global Navigation Satellite System    全球导航卫星系统
 GPS    Global Positioning System    全球定位系统
-GSBI    General Serial Bus Interface
 GSMA    GSM协会
-HD-FDD    Half Duplex
+HD-FDD    Half Duplex    半双工频分复用
 HIS    Herstellerinitiative software    德国OEM代表组成的组织，用于定义在汽车行业的软件相关的标准，该组织已经关闭
+HTTP    Hyper Text Transfer Protocol    超文本传输协议
 ICT    Information and Communication Technology    即信息和通信技术
 IDN    Internationalized Domain Names    国际化域名
 IMS    IP Multimedia Subsystem    IP多媒体子系统
 IMT    International Mobile Telecom System    国际移动通信系统
 intacs    国际评估师认证机构
 IRAT    Inter Radio Access Technology，
+JIT    Just In Time    即时
 KB(KiB)    kilobytes [ˈkɪləˌbaɪt]
 LAN    Local Area Network    局域网
 LBS    Location Based Service    基于位置的服务
@@ -98,6 +103,7 @@ MBIM    Mobile Broadband Interface Model
 MBMS    Multimedia Broadcast Multicast Service    多媒体广播多播业务
 MCC    Mobile Country Code    移动国家码
 MDM    Mobile Data Modem
+MIME    Multipurpose Internet Mail Extensions    多用途互联网邮件扩展
 MIMO    Multiple-Input Multiple-Output，多输入输出天线系统
     该技术指在发射端和接收端分别使用多个发射天线和接收天线，使信号通过发射端与接收端的多个天线传送和接收，从而改善通信质量。它能充分利用空间资源，通过多个天线实现多发多收，在不增加频谱资源和天线发射功率的情况下，可以成倍的提高系统信道容量，显示出明显的优势、被视为下一代移动通信的核心技术。
 MMU    Memory Management Unit    内存管理单元(分页内存管理单元)
@@ -122,6 +128,7 @@ OSI    Open System Interconnection    开放系统互联
 PC    Personal Computer    个人电脑
 PCM    Pulse Code Modulation    脉冲编码调制
 PD    Process Domain
+PGP    Pretty Good Privacy    “优良保密协议”,是一套用于消息加密、验证的应用程序
 PID    Process IDentification    进程ID号
 PEB    physical erase block
 PICS    Protocol Implementation Conformance Statements    协议实现一致性说明
@@ -136,8 +143,10 @@ QAM    Quadrature Amplitude Modulation    正交振幅调制
 QSC    Qualcomn Single Chip
 RAM    Random Access Memory    随机存储器
 RAN    Radio Access Network    无线接入网
+RHEL    Red Hat Enterprise Linux    Red Hat公司发布的面向企业用户的Linux操作系统
 ROM    Read-Only Memory    只读存储器
 RoHS    Restriction of Hazardous Substances    关于限制在电子电器设备中使用某些有害成分的指令
+RPM    Red-Hat Package Manager    红帽软件包管理器
 SA    Service and System Aspects    服务和系统方面，网络架构工作组
 SC-FDMA    Single-carrier Frequency-Division Multiple Access    单载波频分多址
 SIM    Subscriber Identity Module   用户身份识别卡
@@ -176,6 +185,7 @@ VOIP    Voice Over Internet Protocol
 VSTMR    Virtual System Timer
 VU    Versioned Unit
 WAN    Wide Area Network    广域网
+WAP    Wireless Application Protocol    无线应用协议
 WCM    Wireless Communication Module    无线通信模块
 WID    Work Item Description    工作项的描述
 WRC    World Radiocommunication Conference    世界无线电通信大会
