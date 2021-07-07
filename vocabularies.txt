@@ -72,6 +72,7 @@ EOL    End of Line    行结尾
 EOL    End of Life    项目终止
 ETSI    Eruopean Telecommunications Standards Institute    欧洲电信标准化协会
 eUICC    Embeded Universal Integrated Circuit Card    嵌入式通用集成电路卡
+FIB    Forwarding Info Base    路由转发表
 FIOP    Fax Over Internet Protocol
 FOTA    Firmware Over-The-Air
 GB(GiB)  gigabytes [ˈdʒɪɡəˌbaɪt, ˈɡɪɡ-]
@@ -92,10 +93,11 @@ JIT    Just In Time    即时
 KB(KiB)    kilobytes [ˈkɪləˌbaɪt]
 LAN    Local Area Network    局域网
 LBS    Location Based Service    基于位置的服务
-LDPC    Low Density Parity Checkcode    低密度奇偶校验码
-LGA    Land Grid Array    栅格阵列封装
 LCC    Leadless Chip Carriers    邮票孔封装，LCC封装，
     为了针对无阵脚芯片封装设计的，这种封装采用贴片式封装，它的引脚在芯片边缘地步向内弯曲，紧贴芯片，减小了安装体积。但是这种芯片的缺点是使用时调试和焊接都非常麻烦，一般设计时都不直接焊接到印制线路板上，而是使用PGA封装的结构的引脚转换座焊接到印制线路板上，再将LCC封装的芯片安装到引脚转换座的LCC结构形式的安装槽中，这样的芯片就可随时拆卸，便于调试
+LDPC    Low Density Parity Checkcode    低密度奇偶校验码
+LGA    Land Grid Array    栅格阵列封装
+LRU    Least Recently Used    最近最少使用
 MAC    Media Access Control    媒体访问控制/介质访问控制
 MB(MiB)    megabytes [ˈmegəbaɪt]
 MBA    Modem Boot Authenticator
@@ -135,6 +137,7 @@ PICS    Protocol Implementation Conformance Statements    协议实现一致性�
 PIL    peripheral image loader (PIL)
 PL    Product Line    产品线
 POC    PTT(Push To Talk) Over Cellular    基于蜂窝网的，类似于对讲机的无线一键通业务
+POSIX    Portable Operating System Interface    可移植操作系统接口
 PRL    Preferred Roaming List    优先漫游列表
 PRM/PAM    外部过程参考模型(PRM)和过程评估模型(PAM)
 PS    Packet Switch    分组交换
@@ -144,6 +147,7 @@ QSC    Qualcomn Single Chip
 RAM    Random Access Memory    随机存储器
 RAN    Radio Access Network    无线接入网
 RHEL    Red Hat Enterprise Linux    Red Hat公司发布的面向企业用户的Linux操作系统
+RIB    Routing Info Base    路由表
 ROM    Read-Only Memory    只读存储器
 RoHS    Restriction of Hazardous Substances    关于限制在电子电器设备中使用某些有害成分的指令
 RPM    Red-Hat Package Manager    红帽软件包管理器
@@ -171,9 +175,11 @@ TR    Technical Report    研究报告，3GPP术语
 TR069    DSL论坛（www.dslforum.org）所开发的技术规范之一, 其全称为“CPE广域网管理协议”。
        它提供了对下一代网络中家庭网络设备进行管理配置的通用框架和协议, 用于从网络侧对家庭网络中的网关、路由器、机顶盒等设备进行远程集中管理。
 TS    Technical Specification    技术规范，3GPP术语
+TTL    Time To Live    生存时间
 TTS    Text To Speech    即“从文本到语音”，是人机对话的一部分，让机器能够说话
 UBI    Unsorted Block Image
 UBIFS    Unsorted Block Image File System
+URI    Universal Resource Identifier    统一资源标识符
 URL    Uniform Resource Locator    统一资源定位器
 USB    Universal Serial Bus    通用串行总线
 USIM    Universal Subscriber Identity Module    通用用户识别模块
